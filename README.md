@@ -38,6 +38,7 @@ The data set is dedicated to the [public domain](LICENSE.txt).
 
 ### Summary
 
+```
 1.0: Last value in block, row or column
 1.2: Hidden Single in block
 1.5: Hidden Single in row or column
@@ -68,3 +69,4 @@ The data set is dedicated to the [public domain](LICENSE.txt).
           rare 10.1 and 10.8 - 11.0; ultra rare 9.9-10.0)
 10.8-11.5?: Dynamic Forcing Chains(+Multiple Forcing Chains) 
 11.4-11.9: Dynamic Forcing Chains(+Dynamic Forcing Chains) 12.0-12.7(Pencilmarks)
+```
